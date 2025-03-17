@@ -10,7 +10,7 @@ Create an in-memory Bookmark Manager application using Node.js, HTML, CSS, and J
 
 1. Navigate to the backend folder:
    ```bash
-   cd week-6/6.2-bookmark-manager/backend
+   cd backend
    ```
 
 2. Install the required dependencies:
@@ -22,7 +22,7 @@ Create an in-memory Bookmark Manager application using Node.js, HTML, CSS, and J
 
 1. Navigate to the frontend folder:
    ```bash
-   cd week-6/6.2-bookmark-manager/frontend
+   cd frontend
    ```
 
 2. Install the required dependencies (if applicable):
